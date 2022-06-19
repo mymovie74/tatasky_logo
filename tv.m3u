@@ -1,0 +1,173 @@
+#EXTM3U url-tvg="http://kodi.botallen.com/tv/epg.xml"
+
+#EXTINF:-1 tvg-id="158" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/star_plus.png" tvg-chno="1" group-title="Entertainment",Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="471" tvg-name="Sony Sab HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/sony_sab.png" tvg-chno="2" group-title="Entertainment",Sony Sab HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1 tvg-id="SETHD" tvg-name="Sony HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/sony_hd.png" tvg-chno="3" group-title="Entertainment",Sony HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
+#EXTINF:-1 tvg-id="474" tvg-name="Sony pal" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/sony_pal.png" tvg-chno="4" group-title="Entertainment",Sony pal
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/colors.png" tvg-chno="5" group-title="Entertainment",Colors HD
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=Colors_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="472" tvg-name="&Tv HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/%26tv.png" tvg-chno="6" group-title="Entertainment",&Tv HD
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=And_TV_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="167" tvg-name="Zee Tv HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/zee_tv.png" tvg-chno="7" group-title="Entertainment",Zee Tv HD
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="ts297" tvg-name="Big Magic" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png" tvg-chno="8" group-title="Entertainment",Big Magic
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=bigmagic_1786965389
+
+#EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/ddnational.png" tvg-chno="9" group-title="Entertainment",DD National
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=250
+
+#EXTINF:-1 tvg-id="438" tvg-name="Jio Cricket Hindi" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/jio_cricket_hindi.png" tvg-chno="14" group-title="Sports",Jio Cricket Hindi
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=Jio_Cricket_1_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="1918" tvg-name="Jio Cricket English HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/jio_cricket.png" tvg-chno="15" group-title="Sports",Jio Cricket English HD
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="ts81" tvg-name="Sony Ten 1 Hd" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/sonyten1.png" tvg-chno="16" group-title="Sports",Sony Ten 1 Hd
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
+#EXTINF:-1 tvg-id="ts462" tvg-name="Sony Ten 2 Hd" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/sonyten2.png" tvg-chno="17" group-title="Sports",Sony Ten 2 Hd
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ts464" tvg-name="Sony Ten 3 Hd" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/sonyten3.png" tvg-chno="18" group-title="Sports",Sony Ten 3 Hd
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+
+#EXTINF:-1 tvg-id="SonyMaxhd" tvg-name="Sony Max Hd" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/sony_max.png" tvg-chno="19" group-title="Movies",Sony Max Hd
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+#EXTINF:-1 tvg-id="1260000040" tvg-name="Star Gold HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/star_gold.png" tvg-chno="20" group-title="Movies",Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ts503" tvg-name="Zee Cinema Hd" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/zee_cinema.png" tvg-chno="21" group-title="Movies",Zee Cinema Hd
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="ts267" tvg-name="&Pictures Hd" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/%26pictures.png" tvg-chno="22" group-title="Movies",&Pictures Hd
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="ts175" tvg-name="Zee Bollywood" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/zee_bollywood.png" tvg-chno="25" group-title="Movies",Zee Bollywood
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=Zee_Classic&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="1450" tvg-name="Rishtey Cineplex" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/rishtey_cineplex.png" tvg-chno="26" group-title="Movies",Rishtey Cineplex
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=Rishtey_Cineplex&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="ts100" tvg-name="Zee Action" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/zee_action.png" tvg-chno="27" group-title="Movies",Zee Action
+http://yashraj-mod-004.in1.bitmana.io/Jiotv-maxpro1/live.php?c=Zee_Action&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="ts56" tvg-name="Sony Wah" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/sony_wah.png" tvg-chno="28" group-title="Movies",Sony Wah
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+#EXTINF:-1 tvg-id="PIXHD" tvg-name="Sony Pix Hd" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/sony_pix.png" tvg-chno="29" group-title="Movies",Sony Pix Hd
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
+#EXTINF:-1 tvg-id="ts689" tvg-name="Aaj Tak Hd" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/aaj_tak.png" tvg-chno="30" group-title="News",Aaj Tak Hd
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-id="0-9-398" tvg-name="ABP News" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/abpnews.png" tvg-chno="32" group-title="News",ABP News
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in.m3u8
+
+#EXTINF:-1 tvg-id="190" tvg-name="CNBC Awaaz" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/cnbc_awaz.png" tvg-chno="34" group-title="News",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-id="ts183" tvg-name="India News" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/indianews.png" tvg-chno="35" group-title="News",India News
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+
+#EXTINF:-1 tvg-id="493" tvg-name="India Today" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/india_today.png" tvg-chno="38" group-title="News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="235" tvg-name="India TV" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/indiatv.png" tvg-chno="39" group-title="News",India TV
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0091.IndiaTV.in.m3u8
+
+#EXTINF:-1 tvg-id="255" tvg-name="NDTV 24x7" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/ndtv_24x7.png" tvg-chno="41" group-title="News",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+
+#EXTINF:-1 tvg-id="501" tvg-name="News 24" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/news_24.png" tvg-chno="42" group-title="News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="0-9-170" tvg-name="News Nation" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/news_nation.png" tvg-chno="43" group-title="News",News Nation
+https://m-c02-j2apps.s.loris.llnwd.net/hls/1062.NewsNation.in_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="ts696" tvg-name="Republic Bharat" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/r_bharat.png" tvg-chno="45" group-title="News",Republic Bharat
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=162
+
+#EXTINF:-1 tvg-id="ts72" tvg-name="Republic TV" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/republictv.png" tvg-chno="46" group-title="News",Republic TV
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=channel_1422341819
+
+#EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-name="Zee Business" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/zee_business.png" tvg-chno="48" group-title="News",Zee Business
+https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-zeebusiness
+
+#EXTINF:-1 tvg-id="0-9-zeenews" tvg-name="Zee News" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/zee_news.png" tvg-chno="49" group-title="News",Zee News
+https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-zeenews
+
+#EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/9xm.png" tvg-chno="50" group-title="Music",9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+
+#EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/music_india.png" tvg-chno="51" group-title="Music",Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+
+#EXTINF:-1 tvg-id="584" tvg-name="Mastiii" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/mastiii.png" tvg-chno="52" group-title="Music",Mastiii
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
+
+#EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/9x_jalwa.png" tvg-chno="53" group-title="Music",9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
+
+#EXTINF:-1 tvg-id="753" tvg-name="MTV Beats HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/mtv_beats.png" tvg-chno="54" group-title="Music",MTV Beats HD
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=MTV_Beats_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="1145" tvg-name="MTV HD Plus" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/mtv.png" tvg-chno="55" group-title="Music",MTV HD Plus
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=MTV_HD_Plus&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="592" tvg-name="Zoom" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/zoom.png" tvg-chno="56" group-title="Music",Zoom
+https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+
+#EXTINF:-1 tvg-id="ts239" tvg-name="Pogo" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/pogo.png" tvg-chno="57" group-title="Kids",Pogo
+http://yashraj-mod-004.in1.bitmana.io/Jiotv-maxpro1/live.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/nick_jr.png" tvg-chno="58" group-title="Kids",Nick Junior
+http://yashraj-mod-004.in1.bitmana.io/Jiotv-maxpro1/live.php?c=Nick_Junior&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="815" tvg-name="Hungama TV" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/hungama.png" tvg-chno="59" group-title="Kids",Hungama TV
+http://103.153.39.36:8000/play/a01x
+
+#EXTINF:-1 tvg-id="ts114" tvg-name="Disney" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/disney.png" tvg-chno="60" group-title="Kids",Disney
+http://103.153.39.36:8000/play/a01y
+
+#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/nichhd.png" tvg-chno="61" group-title="Kids",Nick HD+
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/discovery.png" tvg-chno="63" group-title="Lifestyle",Discovery HD
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="578" tvg-name="HISTORY TV18 HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/history_tv18.png" tvg-chno="64"group-title="Lifestyle",HISTORY TV18 HD
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=History_18_Hindi&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="568" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/discovery_science.png" tvg-chno="65" group-title="Lifestyle",Discovery Science
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=Discovery_Science&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/discovery_turbo.png" tvg-chno="66" group-title="Lifestyle",Discovery Turbo
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=Discovery_Turbo&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/animal_planet.png" tvg-chno="67" group-title="Lifestyle",Animal Planet HD
+http://yashraj-mod-004.in1.bitmana.io/live.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="ts605" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/nat_geo.png" tvg-chno="68" group-title="Lifestyle",National Geographic HD
+http://node95906-sneh-s7.in1.bitmana.io/redbox/snehredx/48127.m3u8
+
+#EXTINF:-1 tvg-id="ts413" tvg-name="National Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/nat_geo_wild.png" tvg-chno="69" group-title="Lifestyle",National Geo Wild HD
+http://qqtv.nl:8080/Trevor/123456/409690
+
+#EXTINF:-1 tvg-id="ts413" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/ss1hindi.png" tvg-chno="70" group-title="Lifestyle",Star Sports 1 Hindi HD
+https://iptvfreeindia.ml/match.m3u8
+
+#EXTINF:-1 tvg-id="ts24" tvg-logo="https://raw.githubusercontent.com/mymovie74/tata_logo/main/ss1hindi.png" tvg-chno="71" group-title="TSneh Sports",Star Sports 1 Hindi HD
+https://delta4tatasky.akamaized.net/out/i/6527246.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000260&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMzc3MDYyMDAzIiwiaXNlIjp0cnVlLCJqdGkiOiI2Zjk0ODk0Mi1jMTFlLTQwZDctYjkxYy01NmFkMWNjM2E4NzciLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjU1NzI5NjQxLCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNjU1NjQzMjQxLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEwMzgifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDA0MDEifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEwMTUifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEyNzQifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDIifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEwMTUifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEwMzUifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDEifV0sImlzcyI6IlRUTiJ9.SKnf1L6GgXzwE-tAZe0TJp_I0N6s_eLBHvL0nd1qisM
